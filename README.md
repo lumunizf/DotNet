@@ -1,2 +1,3 @@
 # DotNet
-Formação em .NET
+
+Exercícios do curso de formação em .NET
